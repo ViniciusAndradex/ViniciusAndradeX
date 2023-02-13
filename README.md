@@ -11,13 +11,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAndradeX&layout=compact&langs_count=6&theme=tokyonight">
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vinicius-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />     <img align="center" alt="Vinicius-Python" height="30" width="40" src="https://user-images.githubusercontent.com/108092099/218537580-0350f12f-183c-439b-872c-5009f6f27cc4.png" />   
-  <img align="center" alt="Vinicius-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img align="center" alt="Vinicius-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img align="center" alt="Vinicius-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-  <img align="center" alt="Vinicius-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <i class="devicon-github-original-wordmark"><img align="center" alt="Vinicius-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /></i>       
-  <img align="center" alt="Vinicius-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="Vinicius-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Vinicius-Python" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />     <img align="center" alt="Vinicius-Flask" height="30" width="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" />   
+  <img align="center" alt="Vinicius-PostgresSql" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img align="center" alt="Vinicius-Git" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <img align="center" alt="Vinicius-Selenium" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+  <img align="center" alt="Vinicius-Java" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Vinicius-Githun" height="30" width="60" src="https://user-images.githubusercontent.com/108092099/218559424-c89d43e1-9861-41ef-867f-76abbe5aee12.png" />    
+  <img align="center" alt="Vinicius-Html" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img align="center" alt="Vinicius-Linux" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
             
 </div>
