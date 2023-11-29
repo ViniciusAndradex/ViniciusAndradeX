@@ -1,7 +1,7 @@
 ### Hi i'm Vinicius Andrade 👋
 - :dolphin:  Estudante de Ciência da Camputação do Instituto Federal de Educação, Ciência e Tecnologia do Ceará.
-- :shark: Bolsista na área de QA e back-end no laboratório [IFCE-LASIC Maracanaú](https://lasicifce.com.br/).
-- :whale: GoLang.
+- :shark: Pesquisador Junior do Instituto de Gestão, Redes Tecnológicas e Energias.
+- :whale: Estudando Rust.
 
 ##
 
