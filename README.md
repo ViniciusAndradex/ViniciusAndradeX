@@ -1,7 +1,7 @@
 ### Hi i'm Vinicius Andrade 👋
 - :dolphin:  Estudante de Ciência da Camputação do Instituto Federal de Educação, Ciência e Tecnologia do Ceará.
 - :shark: Pesquisador Junior do Instituto de Gestão, Redes Tecnológicas e Energias.
-- :whale: Estudando Rust.
+- :whale: Estudando Rust & Golang.
 
 ##
 
