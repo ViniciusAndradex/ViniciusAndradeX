@@ -1,31 +1,17 @@
-### Hi i'm Vinicius Andrade 👋
-- :dolphin:  Estudante de Ciência da Camputação do Instituto Federal de Educação, Ciência e Tecnologia do Ceará.
-- :shark: Pesquisador Junior do Instituto de Gestão, Redes Tecnológicas e Energias.
-- :whale: Estudando Rust & Golang.
+### Olá, sou o Vinicius Andrade 👋
 
-##
+Sou estudante do 7º semestre de Ciência da Computação no IFCE e atuo como Desenvolvedor Backend Jr. 
+Tenho experiência no ciclo completo de desenvolvimento de APIs REST e integrações de sistemas, trabalhando principalmente com Python, Rust, PostgreSQL e Docker.
 
-<div>
-  <a href="https://github.com/ViniciusAndradex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusAndradeX&show_icons=true&theme=tokyonight#gh-dark-mode-only&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAndradeX&layout=compact&langs_count=6&theme=tokyonight">
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vinicius-Python" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />     <img align="center" alt="Vinicius-Flask" height="30" width="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" />   
-  <img align="center" alt="Vinicius-PostgresSql" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img align="center" alt="Vinicius-Git" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img align="center" alt="Vinicius-Selenium" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-  <img align="center" alt="Vinicius-Java" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Vinicius-Githun" height="30" width="60" src="https://user-images.githubusercontent.com/108092099/218559424-c89d43e1-9861-41ef-867f-76abbe5aee12.png" />    
-  <img align="center" alt="Vinicius-Html" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="Vinicius-Linux" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-            
-</div>
+Atualmente, meu foco de estudo e aprimoramento contínuo está no ecossistema **Rust** e no desenvolvimento com **Flutter**, buscando sempre aprender novas tecnologias para construir soluções escaláveis e eficientes.
 
-##
-  
-<div align=center>
-  <a href="https://www.instagram.com/vinicius_andradem0/?hl=de" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-andrade-desenvolvedor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:viniciusandradeprog@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+**💻 Principais Tecnologias:**
+* **Linguagens:** Python, Rust, Go e Java
+* **Bancos de Dados:** PostgreSQL, MongoDB, MariaDB e Neo4j
+* **Infraestrutura & Outros:** Docker, Grafana, desenvolvimento de microserviços e metodologias ágeis
+* **Em aprimoramento:** Flutter, Design Patterns e Desenvolvimento Mobile
+
+**📫 Como me encontrar:**
+* [LinkedIn](https://www.linkedin.com/in/vinicius-andrade-desenvolvedor)
+* [E-mail](mailto:viniciusandradeprog@gmail.com)
+* [Instagram](https://www.instagram.com/vinicius_andradem0/)
